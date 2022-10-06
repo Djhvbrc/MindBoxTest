@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StrategyImplementation/1.0.0": {
+        "dependencies": {
+          "FigureCalculation": "1.0.0"
+        },
+        "runtime": {
+          "StrategyImplementation.dll": {}
+        }
+      },
+      "FigureCalculation/1.0.0": {
+        "runtime": {
+          "FigureCalculation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StrategyImplementation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FigureCalculation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

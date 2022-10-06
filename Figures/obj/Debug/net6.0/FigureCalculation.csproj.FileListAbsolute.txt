@@ -1,0 +1,12 @@
+C:\Users\Mixail\source\repos\Mindbox\Figures\bin\Debug\net6.0\FigureCalculation.deps.json
+C:\Users\Mixail\source\repos\Mindbox\Figures\bin\Debug\net6.0\FigureCalculation.dll
+C:\Users\Mixail\source\repos\Mindbox\Figures\bin\Debug\net6.0\FigureCalculation.pdb
+C:\Users\Mixail\source\repos\Mindbox\Figures\obj\Debug\net6.0\FigureCalculation.csproj.AssemblyReference.cache
+C:\Users\Mixail\source\repos\Mindbox\Figures\obj\Debug\net6.0\FigureCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mixail\source\repos\Mindbox\Figures\obj\Debug\net6.0\FigureCalculation.AssemblyInfoInputs.cache
+C:\Users\Mixail\source\repos\Mindbox\Figures\obj\Debug\net6.0\FigureCalculation.AssemblyInfo.cs
+C:\Users\Mixail\source\repos\Mindbox\Figures\obj\Debug\net6.0\FigureCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Mixail\source\repos\Mindbox\Figures\obj\Debug\net6.0\FigureCalculation.dll
+C:\Users\Mixail\source\repos\Mindbox\Figures\obj\Debug\net6.0\refint\FigureCalculation.dll
+C:\Users\Mixail\source\repos\Mindbox\Figures\obj\Debug\net6.0\FigureCalculation.pdb
+C:\Users\Mixail\source\repos\Mindbox\Figures\obj\Debug\net6.0\ref\FigureCalculation.dll
